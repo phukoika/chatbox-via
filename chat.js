@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", (e) => {
         dom.widgetForm.style.width = "75px";
         dom.widgetForm.style.height = "75px";
       } else {
-        dom.frame.style.width = "360px";
+        dom.frame.style.width = "400px";
         dom.frame.style.height = "480px";
         dom.widgetContent.style.height = "300px";
       }
